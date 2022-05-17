@@ -1,0 +1,43 @@
+.container {
+  border: 0.0625rem solid red;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: green;
+  border: none;
+  font-size: 1rem;
+  padding: 0.625rem;
+  text-decoration: underline blue;
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  padding: 0.625rem;
+}
+.flex .a {
+  color: blue;
+  border: 0.0625rem solid green;
+  font-size: 1rem;
+  padding: 0.625rem;
+}
+.flex .b {
+  color: red;
+  border: 0.0625rem solid green;
+  font-size: 1rem;
+  padding: 0.625rem;
+}
+
+.footer {
+  color: green;
+  border: 0.0625rem solid blue;
+  font-size: 1.5rem;
+  padding: 1.875rem;
+  margin: 0.625rem;
+}
+
+/*# sourceMappingURL=esercizio3sass.css.map */
